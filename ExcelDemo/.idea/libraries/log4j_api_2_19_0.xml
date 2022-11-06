@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="log4j-api-2.19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/poi-bin-5.2.2/log4j-api-2.19.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/poi-bin-5.2.2/log4j-api-2.19.0.jar!/META-INF" />
+      <root url="jar://$USER_HOME$/Desktop/poi-bin-5.2.2/log4j-api-2.19.0.jar!/org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
